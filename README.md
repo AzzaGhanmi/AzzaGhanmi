@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Azza 👋
 
-<!--
-**AzzaGhanmi/AzzaGhanmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Engineering Student @ École Polytechnique Internationale** — Tunis, Tunisia 🇹🇳
 
-Here are some ideas to get you started:
+I'm passionate about turning raw data into reliable insights. I'm currently building my skills in data pipelines, data modeling and analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages:** Python, SQL
+- **Big Data:** PySpark
+- **Data Warehouse & Modeling:** Snowflake, dbt
+- **Databases:** MongoDB, Cassandra
+- **Visualization:** Power BI
+- **Tools:** Git, GitHub
+
+## 🌱 Currently Learning
+- Building ELT pipelines with Snowflake & dbt
+- Advanced SQL
+
+## 🚀 Projects
+*Coming soon — stay tuned!*
+
+## 📫 Let's Connect
+- LinkedIn: [linkedin.com/in/azza-ghanmi](https://www.linkedin.com/in/azza-ghanmi)
+- Email: azzaghanmi201197@gmail.com
+
+💼 *Open to internship opportunities in Data Engineering.*
