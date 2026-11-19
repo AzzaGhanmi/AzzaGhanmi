@@ -1,6 +1,6 @@
 # Hi, I'm Azza 👋
 
-**Data Engineering Student @ École Polytechnique Internationale** — Tunis, Tunisia 🇹🇳
+**Data Engineering Student @ École Polytechnique Internationale** 
 
 I build data pipelines and analytics solutions, turning raw data into reliable insights. I'm currently strengthening my skills in data modeling, ELT pipelines and cloud data warehousing.
 
