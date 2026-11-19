@@ -2,25 +2,21 @@
 
 **Data Engineering Student @ École Polytechnique Internationale** — Tunis, Tunisia 🇹🇳
 
-I'm passionate about turning raw data into reliable insights. I'm currently building my skills in data pipelines, data modeling and analytics.
+I build data pipelines and analytics solutions, turning raw data into reliable insights. I'm currently strengthening my skills in data modeling, ELT pipelines and cloud data warehousing.
 
 ## 🛠️ Tech Stack
 - **Languages:** Python, SQL
-- **Big Data:** PySpark
-- **Data Warehouse & Modeling:** Snowflake, dbt
-- **Databases:** MongoDB, Cassandra
+- **Data Engineering:** PySpark, Snowflake, dbt
+- **Databases:** PostgreSQL, MongoDB
 - **Visualization:** Power BI
-- **Tools:** Git, GitHub
+- **Tools:** Git, GitHub, Docker, DBeaver
 
 ## 🌱 Currently Learning
-- Building ELT pipelines with Snowflake & dbt
+- ELT pipelines with Snowflake & dbt
 - Advanced SQL
-
-## 🚀 Projects
-*Coming soon — stay tuned!*
 
 ## 📫 Let's Connect
 - LinkedIn: [linkedin.com/in/azza-ghanmi](https://www.linkedin.com/in/azza-ghanmi)
 - Email: azzaghanmi201197@gmail.com
 
-💼 *Open to internship opportunities in Data Engineering.*
+💼 *Open to a summer internship (2027) and future full-time opportunities in Data Engineering.*
